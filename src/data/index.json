@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": " Expert in crafting engaging user interfaces and experiences using HTML, CSS, and JavaScript frameworks like React.js."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in building robust server-side applications and APIs using Node.js, Express.js, and database management systems like MongoDB."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Specializes in designing intuitive and visually appealing interfaces, focusing on user experience principles and interaction design to enhance usability."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficient in creating responsive websites and web applications using Webflow, combining design and development skills to produce high-quality, code-free digital experiences."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "https://employee-review-template.com/images/uploads/2023-07-26/employee-appriasal-report.png?1690356747803",
+      "title": "Employee Review System",
+      "description": "A MERN-based employee review system streamlining performance evaluations, enabling managers to conduct assessments, track progress, and provide feedback efficiently. ",
+      "link": "https://github.com/Rohit-R-Sahu/Chat-app.git"
+    },
+    {
+      "id": "2",
+      "src": "https://appstalkers.com/wp-content/uploads/2020/08/Best-Meal-Planning-Apps-for-Android-and-iPhone-Devices.jpg",
+      "title": "Meal Finder",
+      "description": "React-powered meal app with API integration for easy recipe exploration and meal planning, delivering a user-friendly experience for culinary enthusiasts.",
+      "link": "https://github.com/Rohit-R-Sahu/meals_app_coding_ninjas_frontend.git"
+    },
+    {
+      "id": "3",
+      "src": "https://assets.materialup.com/uploads/beec7255-718c-4278-87f4-98889e2acf1e/preview.jpg",
+      "title": "Chat App",
+      "description": "A sleek chat application built with React, Node.js and Socket.io facilitating real-time communication with intuitive design and seamless user experience.",
+      "link": "https://github.com/Rohit-R-Sahu/employee-review.git"
+    }
+  ]
+}
+
